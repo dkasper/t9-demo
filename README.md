@@ -1,4 +1,6 @@
 t9-demo
 =======
 
-Demo of converting digits to words using T9 (like on 9 key cell phones)
+Demo of converting cell phone keypad digits to words using Go 
+
+Wordlist used is from  http://ucrel.lancs.ac.uk/bncfreq/flists.html
